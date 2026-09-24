@@ -11,7 +11,7 @@
 ### 4. Student.json stored DATA
 <img width="772" height="560" alt="Screenshot 2026-09-24 at 11 02 54 AM" src="https://github.com/user-attachments/assets/dd768eac-d371-46a7-9e66-7149fa9b2b69" />
 
-###HOW to run code ?
+### HOW to run code ?
 ## 1.Step clone this folder
 ## 2.Download Node modules
 ## 3.RUN npm start in Terminal 
