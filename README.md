@@ -16,4 +16,4 @@ HOW to run code ?
 ## 2.Download Node modules
 ## 3.RUN npm start in Terminal 
 ## 4.Run at localHost3000/students to Start the Server
-## 5.Using Postman or Thunder Client to Use GET and POST method to See OR ADD the DATA.
+## 5.Using Postman or Thunder Client to Use GET and POST method to See and ADD the DATA.
