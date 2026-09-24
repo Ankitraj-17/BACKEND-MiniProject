@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ankitraj",
+    "course": "Btech",
+    "email": "Ankit1234@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Ankitraj jha",
+    "course": "Btech",
+    "email": "Ankit1234@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Areno",
+    "course": "Btech-Cse",
+    "email": "Areno1234@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "ITM",
+    "course": "Btech-Cse",
+    "email": "ITM@gmail.com"
+  }
+]
